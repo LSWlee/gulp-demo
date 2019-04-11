@@ -1,0 +1,10 @@
+#box2 {
+  width: 150px;
+  height: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#box2 p {
+  color: deeppink;
+}
